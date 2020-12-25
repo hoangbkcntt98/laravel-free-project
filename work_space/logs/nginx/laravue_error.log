@@ -1,0 +1,2 @@
+2020/12/25 07:16:16 [error] 12#12: *5 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.5:9000", host: "localhost"
+2020/12/25 07:16:16 [error] 12#12: *5 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.23.0.5:9000", host: "localhost", referrer: "http://localhost/"
